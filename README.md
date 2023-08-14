@@ -1,10 +1,10 @@
 # CustomToken Smart Contract
 
-The CustomToken smart contract is an ERC-20 compliant token with additional functionalities. It is implemented using the Solidity programming language and is built upon the OpenZeppelin library.
+This is an smart contract which has  an ERC-20 compliant token with additional functionalities. It is implemented using the Solidity programming language and is built upon the OpenZeppelin library.
 
 ## Description
 
-The CustomToken contract inherits from the OpenZeppelin's ERC20 contract, which implements the ERC-20 standard for fungible tokens, and the Ownable contract, which provides basic ownership functionality. This token allows you to perform basic token operations like transferring, minting, and burning tokens.
+This token contract inherits from the OpenZeppelin's ERC20 contract, which implements the ERC-20 standard for fungible tokens, and the Ownable contract, which provides basic ownership functionality. This token allows you to perform basic token operations like transferring, minting, and burning tokens.
 
 ## Features
 
